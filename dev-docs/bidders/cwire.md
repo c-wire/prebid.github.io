@@ -12,6 +12,7 @@ schain_supported: false
 userIds: none
 enable_download: true
 media_types: banner, video
+multiformat_supported: will-bid-on-any
 sidebarType: 1
 ---
 ---
